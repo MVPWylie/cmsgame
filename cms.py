@@ -1,6 +1,5 @@
 
 
-
 def start():
     answer = input("Care for a game? (yes/no) [Input in this game is sensitive. No capitals.] ")
 
